@@ -1,0 +1,19 @@
+R            1920         1057
+NO            ./purplestone.xpm
+S ./barrel.xpm
+SO ./redbrick.xpm
+WE ./wood.xpm
+EA ./bluestone.xpm
+
+F 240, 255, 255
+C 1, 100, 0
+
+111111
+1E0001
+110001
+100001
+122201
+122201
+122201
+122201
+111111
